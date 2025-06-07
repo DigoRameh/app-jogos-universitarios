@@ -1,4 +1,4 @@
-🏆 App de Jogos Universitários
+# 🏆 App de Jogos Universitários
 
 Este é um protótipo de aplicativo desenvolvido para acompanhar jogos universitários. Ele permite a visualização de partidas, resultados e quadro de medalhas.
 
