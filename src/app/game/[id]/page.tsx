@@ -64,7 +64,7 @@ export default function GameDetailPage() {
         {team.statistics && Object.keys(team.statistics).length > 0 && (
           <div>
             <h4 className="font-semibold mb-2 flex items-center"><BarChart2 className="w-4 h-4 mr-2 text-primary" />Estatísticas</h4>
-            <Table size="sm">
+            <Table className="text-sm">
               <TableBody>
                 {Object.entries(team.statistics).map(([key, value]) => (
                   <TableRow key={`${teamLabel}-stat-${key}`}>
