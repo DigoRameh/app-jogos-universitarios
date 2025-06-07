@@ -6,9 +6,9 @@ Este é um protótipo de aplicativo desenvolvido para acompanhar jogos universit
 
 ## 🔗 Acesse o protótipo online
 
-Você pode visualizar o app funcionando diretamente pelo Firebase Hosting:
+Você pode visualizar o app funcionando diretamente pelo Vercel:
 
-👉 [https://college-game-hub.web.app]
+👉 [https://placaruniversitario.vercel.app/]
 
 ---
 
